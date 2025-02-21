@@ -18,7 +18,7 @@ Pontuação: Sobreviva o máximo que puder para conseguir uma pontuação alta.
 
 Sobreviver o maior tempo possível no espaço, evitando inimigos e coletando combustível para prolongar sua jornada.
 
-Recursos Principais
+# Recursos Principais:
 
 Jogabilidade desafiadora baseada em reflexos e estratégia.
 
